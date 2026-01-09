@@ -1,10 +1,13 @@
-# Harborlights Hotel - Vue.js Frontend
+# Harborlights Hotel - Vue.js Frontend Node.js Backend
 
-🏨 Harborlights Hotel - Vue.js Frontend
+🏨 Harborlights Hotel - Vue.js Frontend Node.js Backend
 **1. Project Overview**
 
-This is a Single Page Application (SPA) built with Vue 3 and Vite. 
+This is a Single Page Application (SPA) built with Vue 3 and Vite, Node.js Backend. 
 It modernizes a static Bootstrap 4 template by implementing dynamic data fetching, client-side routing, and component-based architecture while maintaining compatibility with legacy jQuery plugins (Owl Carousel, Datepicker).
+
+<img width="1623" height="1072" alt="image" src="https://github.com/user-attachments/assets/7c52a804-4402-4ef2-a3c3-9d8c2860c8c2" />
+
 Many thanks to the author of the template: https://themewagon.com/themes/free-bootstrap-4-html5-responsive-hotel-website-template-harbor-lights/
 For backend (Node.js), please refer: https://github.com/ThanThanhThuan/react_node_hotel
 
@@ -74,5 +77,5 @@ cd harborlights-vue
 npm install  # (If you haven't installed dependencies yet)
 npm run dev
 Visit http://localhost:5173 to see the application.
-<img width="1623" height="1072" alt="image" src="https://github.com/user-attachments/assets/7c52a804-4402-4ef2-a3c3-9d8c2860c8c2" />
+
 
